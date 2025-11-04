@@ -1,21 +1,3 @@
-# Introduce yourself
-
-
-1. fork this repo
-2. clone this repo locally
-3. create a branch /your-name
-
-
-# Write your name, favorite tech stack, where you work
-
-1. Rachit singh, `go lang + MERN stack` , Associate engineer at cepialabs.
-2. Anubhav, `SQL + MERN stack` , Programmer Analyst intern at cepialabs.
-3. Tanmay khandelwal, `Python`, Programmer Analyst intern at cepialabs.
-4. Shrey mishra 'Python + `MERN` ' web development intern at cepialabs
-5. Aayush Rathod, `Python + MERN stack`, Batch 10 am to 11 am, Programmer Analyst intern at cepialabs.
-6. MD TANVEER AHMAD , ` MERN stack` , programmer analyst intern, at cepialabs.
-7. Shrey Mishra ,batch 10 am  to 11 am , python + MERN stack , Intern at Cepialabs
-8. Vivek Chamoli, `MERN stack` , Intern at cepialabs.
 
 # Introduction of New batch
 
@@ -41,3 +23,20 @@
  
 
 # Introduction to New batch 29-oct-2025
+
+Dear Ravi,
+We’re excited to invite you for an interview for the role of Fullstack Developer. Your profile has impressed us, and we’d love to meet you in person. 
+The interview is scheduled for 30th October, 2025 at 10:30 AM, where you’ll be speaking with Sapna Desai, HR.
+
+Please carry a printout of your updated resume.
+
+10turtle:
+LinkedIn:https://www.linkedin.com/company/parsolution/
+Website: https://10turtle.com/
+Office Address:
+802-810, 8th Floor, APMC Market Krushi Bazaar, beside North Extension, near Ring Road, Sahara Darwaja, Surat, Gujarat 395003
+
+We truly appreciate your interest in joining the 10turtle team and look forward to meeting you soon. Wishing you the very best for your interview.
+Best Regards,
+HR Team
+10turtle
